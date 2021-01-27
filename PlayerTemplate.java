@@ -1,5 +1,3 @@
-package codinghw.rock_paper_scissors;
-
 public abstract class PlayerTemplate {
 	private State move = State.NONE;
 	boolean won = false;
