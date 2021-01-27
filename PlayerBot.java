@@ -1,5 +1,3 @@
-package codinghw.rock_paper_scissors;
-
 import java.util.*;
 
 public class PlayerBot extends PlayerTemplate {
