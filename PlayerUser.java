@@ -1,5 +1,3 @@
-package codinghw.rock_paper_scissors;
-
 public class PlayerUser extends PlayerTemplate {
 	private int code;
 	
